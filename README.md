@@ -1,7 +1,6 @@
 # SuperHeroUI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.0.
-
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.0. This is a practice project to perform CRUD to get familiar with Angular Js. We can add , retrieve, update and delete super hero. The basic idea to get familiar with Angular Framework. The backend built using .NET 6 Web API & Entity Framework.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
