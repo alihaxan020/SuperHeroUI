@@ -11,6 +11,7 @@ export class AppComponent {
   title = 'SuperHeroUI';
   heroes: SuperHero[] = [];
   heroToEdit?: SuperHero;
+  columnsToDisplay = ['name', 'firstName', 'lastName', 'place', 'button'];
   constructor(private superHeroService: SuperHeroService) {}
   ngOnInit(): void {
     this.superHeroService
